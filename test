@@ -55,7 +55,7 @@ def main():
 
         # Subdomain mode
         else:
-            url = f"http://{word}.{args.domain}"
+            url = f"http://{args.domain}/{word}"
             check_url(url)
 
 if __name__ == "__main__":
