@@ -1,1 +1,3 @@
-# Curl based curl-based subdomain emulator 
+# Curl based Content discovery scanner
+
+A teeny tiny dirbuster scanner.
