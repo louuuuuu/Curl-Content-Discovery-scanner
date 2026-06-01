@@ -1,8 +1,10 @@
 # Curl based Content discovery scanner
 
-A teeny tiny dirbuster scanner.
+A teeny tiny dirbuster scanner. **Curiosity  of chatgpt**
 
 
+## USAGE
+python3 scanner.py -d example.com -w wordlist.txt
 
 ## Features
 
@@ -12,8 +14,6 @@ A teeny tiny dirbuster scanner.
 - HTTP status code detection
 - Lightweight and dependency-free (uses system `curl`)
 - Simple CLI interface
-
-
 
 
 
